@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body {
+  margin: 0;
+  padding: 30px;
+  background: #ffc600;
+  font-family: sans-serif;
+}
+
+#band {
+  list-style: none;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+#band li {
+  background: white;
+  margin: 5px 0;
+  padding: 15px;
+  font-size: 18px;
+  border-radius: 3px;
+}
